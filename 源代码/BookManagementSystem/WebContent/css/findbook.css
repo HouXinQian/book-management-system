@@ -1,0 +1,57 @@
+body{
+background:#8F918A;
+}
+.table{
+border:2px solid #e4e4e4;
+}
+#idBT, #booknameBT,#authorBT,#priceBT,
+#sub1,#sub2,#sub3,#sub4
+{
+    width:160px;
+    background-color:#10bbf1;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+#back,#back1,#back2,#back3,#back4{
+    width:160px;
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+input[type="text"] {
+    
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.15);
+    padding-left: 1em;
+    width: 23em;
+    height: 2.8em;
+    margin-bottom: 1.2em;
+    
+    
+}
+.yulan{
+    width:50px;
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    
+    
+}
